@@ -1,0 +1,1 @@
+add_executable(funzioni "1-Funzioni.c")
