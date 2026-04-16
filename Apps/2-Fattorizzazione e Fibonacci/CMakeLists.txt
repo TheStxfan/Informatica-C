@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 4.1)
-project(App C)
+project(untitled C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(App main.c
-        library.c)
+add_executable(main.c)

@@ -20,4 +20,4 @@ void stampaP(persona p);
 void aggiungiP(agenda *a);
 void stampaA(agenda *a);
 void cerca(agenda *a, str txtNome);
-void cancella(agenda *a, str Nome, str Cognome);
+void cancella(agenda *a, str txtNome, str txtCognome);
